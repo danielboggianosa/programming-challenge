@@ -1,26 +1,28 @@
-# Reto de programación frontend
-## Objetivo
-El principal propósito de este reto es demostrar tus conocimientos a nivel de buenas prácticas de código, arquitectura, UX y UI desarrolando una aplicación sencilla.
-## Instrucciones
-1. Crea un repositorio público en tu cuenta de Github en envía el enlace a daniel.boggiano@globals.one
-2. Describe tu proyecto en el README.md del repositorio
-3. Si crear ramas adicionales hazles un merge a la rama main o master que estas serán las únicas que sean evaluadas.
-4. En el README agrega la justificación del tiempo que te tomó terminarlo hasta donde lo enviaste y responde ¿Qué más harías si tuvieses más tiempo?
-5. De preferencia usa Angular en sus últimas versiones pero puedes desarrollarla con cualquier otro framework que mejor domines.
-## Historia de usuario
-Una empresa quiere mostrarle una tabla de datos solo a usuarios registrados en web.
-Para esto requiere una página de login que autentifique a los usuarios autorizados antes de mostrarle la data sensible.
-También quiere que esta tabla tenga como mínimo 100 registros y que se muestren con paginación y filtros de búsqueda y orden.
-## Requerimientos
-1. Crar una página de login con un diseño amigable y que muestre los errores más comunes en el proceso de autentificación.
-2. Crear una página de dashboard solo para usuarios autorizados en la página previa.
-3. Mostrar en el dashboard una tabla de datos con filtros de búsqueda, paginación y orden.
-4. Consumir la data, tanto de autentificación como de la tabla, de la API REST de tu preferencia. (Esto no será calificado)
-5. Crear los métodos necesarios para consumir los servicios.
-6. Proteger la ruta del dashboard para evitar acceso no autorizado.
-7. Utilizar buenas práticas de desarrollo y mantenibilidad de aplicaciones.
-### Requerimientos opcionales
-* Documentación de uso de la app.
-* Despliegue en servidor de tu preferencia. (indicar el enlace)
-* Test unitarios.
-* Cualquier idea adicional debe ser justificada.
+# Desafíos Técnicos de JavaScript
+
+¡Bienvenido al repositorio de Desafíos Técnicos de JavaScript! Aquí encontrarás una colección de retos técnicos para desarrolladores que deseen poner a prueba sus habilidades en JavaScript en tres categorías principales: Backend, Frontend y Database.
+
+## Categorías
+
+### Backend
+En esta sección, encontrarás desafíos que se centran en el desarrollo del lado del servidor utilizando JavaScript. Estos retos están diseñados para evaluar tus conocimientos y habilidades en frameworks y tecnologías relacionadas con el backend, como Node.js, Express.js, manejo de API RESTful, autenticación, autorización, manipulación de datos, pruebas unitarias, entre otros.
+
+### Frontend
+Aquí encontrarás desafíos que se enfocan en el desarrollo del lado del cliente utilizando JavaScript. Estos retos evaluarán tu capacidad para trabajar con frameworks y bibliotecas populares de frontend, como React, Angular o Vue.js. Podrás poner a prueba tus habilidades en el manejo de componentes, enrutamiento, manejo de estado, integración con API, diseño responsivo y otras competencias clave para el desarrollo frontend.
+
+### Database
+En esta sección, encontrarás desafíos relacionados con la manipulación y gestión de bases de datos utilizando JavaScript. Estos retos te permitirán poner en práctica tus conocimientos en bases de datos relacionales (por ejemplo, MySQL, PostgreSQL) o no relacionales (por ejemplo, MongoDB, Firebase). Podrás enfrentarte a desafíos relacionados con consultas, modelado de datos, indexación, migraciones y más.
+
+## Cómo utilizar este repositorio
+
+Cada categoría contiene una carpeta con varios desafíos técnicos numerados. Dentro de cada desafío, encontrarás un archivo `README.md` con una descripción detallada del desafío, los requerimientos, instrucciones y cualquier información adicional relevante. Además, encontrarás una carpeta `solucion` opcional que contiene una posible solución al desafío.
+
+Siéntete libre de explorar los diferentes desafíos y elegir aquellos que sean de tu interés o que te permitan fortalecer áreas específicas de tu conocimiento. Puedes clonar este repositorio y trabajar en los desafíos en tu propio entorno de desarrollo.
+
+## Contribuciones
+
+Este repositorio está abierto a contribuciones de la comunidad. Si deseas agregar un nuevo desafío o mejorar los existentes, te invitamos a hacerlo. Simplemente realiza un *fork* del repositorio, realiza tus cambios y envía una solicitud de *pull request*.
+
+## Nota
+
+Recuerda que los desafíos técnicos están diseñados para poner a prueba tus habilidades y conocimientos en JavaScript. Utilízalos como una oportunidad para aprender, practicar y mejorar tus habilidades de programación. ¡Diviértete resolviendo los desafíos y buen código!
