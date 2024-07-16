@@ -6,7 +6,7 @@ El principal propósito de este reto es demostrar tus conocimientos a nivel de b
 2. Describe tu proyecto en el README.md del repositorio
 3. Si crear ramas adicionales hazles un merge a la rama main o master que estas serán las únicas que sean evaluadas.
 4. En el README agrega la justificación del tiempo que te tomó terminarlo hasta donde lo enviaste y responde ¿Qué más harías si tuvieses más tiempo?
-5. De preferencia usa Angular en sus últimas versiones pero puedes desarrollarla con cualquier otro framework que mejor domines.
+5. Usa tecnologías en sus últimas versiones pero puedes desarrollarla con cualquier otro framework que mejor domines.
 ## Historia de usuario
 Una empresa quiere mostrarle una tabla de datos solo a usuarios registrados en web.
 Para esto requiere una página de login que autentifique a los usuarios autorizados antes de mostrarle la data sensible.
