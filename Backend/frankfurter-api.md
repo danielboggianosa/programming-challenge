@@ -235,7 +235,7 @@ forex-api/
 │   ├── controllers/
 │   │   └── forexController.js
 │   └── services/
-│       └── tradermadeService.js
+│       └── frankfurterService.js
 ├── .env
 ├── .env.example
 ├── package.json
