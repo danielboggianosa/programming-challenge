@@ -317,7 +317,6 @@ curl "https://api.frankfurter.dev/v1/currencies"
 ### Para el Candidato
 - **Prioriza funcionalidad sobre perfección**
 - Puedes usar Google y documentación oficial
-- NO uses ChatGPT, Copilot o IAs
 - Pregunta dudas al inicio
 - **Gestiona tu tiempo: 20 min por endpoint**
 
