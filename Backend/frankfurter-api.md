@@ -470,7 +470,7 @@ app.listen(PORT, () => {
 
 ## Contacto Durante la Prueba
 
-**Evaluador:** Daniel (CTO Cuevatech)  
+**Evaluador:** Daniel Boggiano
 **Disponible para:** Dudas sobre requisitos, problemas técnicos de setup  
 **NO disponible para:** Ayuda con código, solución de bugs
 
