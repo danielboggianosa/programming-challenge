@@ -362,7 +362,6 @@ curl "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&dail
 ### Para el Candidato
 - **Prioriza funcionalidad sobre perfección**
 - Puedes usar Google y documentación oficial
-- NO uses ChatGPT, Copilot o IAs
 - Pregunta dudas al inicio
 - **Gestiona tu tiempo: 20 min por endpoint**
 
